@@ -1,6 +1,6 @@
 # 42 SEOUL
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/757a6495-02e9-43de-8a73-d7ebd29c409b/Untitled.png)
+![image](https://github.com/Ssuamje/42Seoul/assets/105692206/8e7b39bf-66ba-4fdb-9b82-317bc88fa07a)
 
 [42 SEOUL](https://42seoul.kr/)은 과기통상부에서 소프트웨어 인재 양성을 위해 설립한 [이노베이션 아카데미](https://innovationacademy.kr/academy/main/view)의 교육기관입니다.
 
