@@ -1,6 +1,9 @@
 ## 평가(100/125)
 <img width="1050" alt="스크린샷 2023-05-16 오후 5 15 25" src="https://github.com/Ssuamje/42Seoul/assets/105692206/111c55e5-858b-4311-a3c4-720736da0280">
 
+![May-17-2023 11-53-51](https://github.com/Ssuamje/42Seoul/assets/105692206/83fe0de4-1a5d-48af-bedb-d7d428fd9f48)
+
+
 ## 개요
 
 Philosophers는 식사하는 철학자 문제로, 뮤텍스와 세마포어를 이용하여 스레드/프로세스 간 동기화를 구현하는 과제입니다. 
