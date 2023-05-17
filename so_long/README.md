@@ -1,7 +1,8 @@
 ## 평가(100/125)
 <img width="1023" alt="스크린샷 2023-05-16 오후 5 19 37" src="https://github.com/Ssuamje/42Seoul/assets/105692206/0901872d-45e7-4fdc-a756-a4d4034a6362">
 
-![image](https://github.com/Ssuamje/42Seoul/assets/105692206/50174b50-ea4c-4db6-8bc6-40ea358818c3)
+![img](https://github.com/Ssuamje/42Seoul/assets/105692206/1a2f7b37-c320-4a36-988d-b7be7fcf42f4)
+
 
 ## 개요
 C언어를 이용하여 게임을 구현하는 과제입니다. 
