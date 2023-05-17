@@ -1,6 +1,11 @@
 ## 평가(100/100)
 <img width="1054" alt="스크린샷 2023-05-16 오후 5 16 44" src="https://github.com/Ssuamje/42Seoul/assets/105692206/335cf5a5-d8cd-4f29-9cc3-4fb1a59e25d5">
 
+### ex00
+![cpp00ex00](https://github.com/Ssuamje/42Seoul/assets/105692206/45243b47-8e46-4919-b4c4-73996892ad39)
+
+### ex01
+![cpp00ex01](https://github.com/Ssuamje/42Seoul/assets/105692206/9dc3b23e-41ab-41e2-8548-7dc708a2a795)
 
 ## 개요
 
