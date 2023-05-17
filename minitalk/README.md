@@ -1,6 +1,8 @@
 ## 평가 (125/125)
 <img width="1055" alt="스크린샷 2023-05-16 오후 5 17 14" src="https://github.com/Ssuamje/42Seoul/assets/105692206/6928ec2a-ac11-41a9-a06c-1fd0eea3e25d">
 
+![minitalk2](https://github.com/Ssuamje/42Seoul/assets/105692206/59c1b772-d4e9-4eb4-8c3a-fde0e1878792)
+
 ## 개요
 minitalk은 서버와 클라이언트가 각각 시그널을 보내고 받으면서 통신을 구현하는 프로젝트입니다.
 
