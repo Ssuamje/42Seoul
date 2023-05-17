@@ -1,6 +1,9 @@
 ## 평가(125/125)
 <img width="1062" alt="스크린샷 2023-05-16 오후 5 16 05" src="https://github.com/Ssuamje/42Seoul/assets/105692206/44c2d9ae-c95e-4011-bf98-ebee1295d290">
 
+## 체커
+![checker](https://github.com/Ssuamje/42Seoul/assets/105692206/4084e768-7006-4ad5-b4ad-a9e6988f7c12)
+
 ## 개요
 push_swap은 스택과 큐 자료구조를 활용하여 주어진 연속된 숫자들을 특정 개수 내에 정렬하는 문제입니다.
 
