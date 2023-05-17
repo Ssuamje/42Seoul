@@ -1,6 +1,9 @@
 ## 평가 (100/100)
 <img width="1056" alt="스크린샷 2023-05-16 오후 5 18 16" src="https://github.com/Ssuamje/42Seoul/assets/105692206/a205f460-e1da-4fa8-96bf-1f22c83af665">
 
+![image](https://github.com/Ssuamje/42Seoul/assets/105692206/3ef2cf05-c426-4489-825b-ad11b1f2764d)
+<br>
+이미지 출처 : https://techdebt.tistory.com/34
 
 ## 개요
 
