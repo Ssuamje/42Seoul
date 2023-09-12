@@ -6,7 +6,7 @@
 /*   By: sanan <sanan@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/01 13:06:21 by sanan             #+#    #+#             */
-/*   Updated: 2023/03/06 07:57:36 by sanan            ###   ########.fr       */
+/*   Updated: 2023/06/20 13:01:39 by sanan            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,7 +45,7 @@ int	take_left_fork(t_philo *philo)
 		}
 		if (pthread_mutex_unlock(&(philo->fork_left->access)) == FAILURE)
 			return (FAILURE);
-		if (usleep(500) == FAILURE)
+		if (usleep(1) == FAILURE)
 			return (FAILURE);
 	}
 }
@@ -68,7 +68,7 @@ int	take_right_fork(t_philo *philo)
 		}
 		if (pthread_mutex_unlock(&(philo->fork_right->access)) == FAILURE)
 			return (FAILURE);
-		if (usleep(500) == FAILURE)
+		if (usleep(1) == FAILURE)
 			return (FAILURE);
 	}
 }

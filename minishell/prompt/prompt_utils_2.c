@@ -6,7 +6,7 @@
 /*   By: sanan <sanan@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/05 20:27:03 by sanan             #+#    #+#             */
-/*   Updated: 2023/02/09 14:11:40 by sanan            ###   ########.fr       */
+/*   Updated: 2023/07/28 22:54:00 by sanan            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void	sig_int_handler(int signo)
 	{
 		printf("\n");
 		rl_on_new_line();
-		rl_replace_line("", 1);
+		// rl_replace_line("", 1);
 		rl_redisplay();
 		add_set_env_to_list(g_global->g_envl, "?=1");
 	}
@@ -26,7 +26,7 @@ void	sig_int_handler(int signo)
 
 void	init_sighandler(void)
 {
-	rl_catch_signals = 0;
+	// rl_catch_signals = 0;
 	signal(SIGINT, sig_int_handler);
 	signal(SIGQUIT, SIG_IGN);
 }
